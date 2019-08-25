@@ -7,7 +7,7 @@
   display: none;
 }
 
-div #wall #tag-2 + #tag-3 .slick.wicked {
+.slick.wicked {
   display: none;
 }
 
